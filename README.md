@@ -1,3 +1,4 @@
 # Seminar 3
 
-## Changes from lokal repository
+## Changes from local repository  
+## Changes from remote repository 
